@@ -11,7 +11,7 @@ public class HomeController {
 	
 	@GetMapping
 	public String hello() {
-		return "Olá, pense no futuro agora, ok ?";
+		return "Olá, pense no futuro agora, ok ????";
 	}
 	
 	
